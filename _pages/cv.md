@@ -21,13 +21,18 @@ Education
   * Advisor: [Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/)
 * B.S. in Psychology, Seoul National University (2015.03. ~ 2019.08.)
   * Minor: Brain-Mind-Behavior
-  
+
+Clinical Training
+======
+* Clinical Psychology Trainee at the Department of Neuropsychiatry, Kangdong Sacred Heart Hospital (2026.03. ~ current)
+
 Employment
 ======
-* Researcher at the Department of Neuropsychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ current)
+* Researcher at the Department of Neuropsychiatry, Kangdong Sacred Heart Hospital (2024.12. ~ 2026.02.)
 
 Publications
 ======
+* __Kwon, M.__+, Song, J. Y.+, Hwang, J. Y., Seong, S.J., Park, K. J., Jo, Y. T., Kim, Y. J., Ahn, M. E., Lee, S.-K. (2026) Personalizing ecological momentary intervention for substance use disorders through data-driven decision rules, Frontiers in Psychiatry, [https://doi.org/10.3389/fpsyt.2026.1717544](https://doi.org/10.3389/fpsyt.2026.1717544).
 * __Kwon, M.__+, Choi, H.+, Park, H., Ahn, W.-Y., Jung Y. (2024) Neural correlates of model-based behavior in internet gaming disorder and alcohol use disorder, _Journal of Behavioral Addictions_, [https://doi.org/10.1556/2006.2024.00006](https://doi.org/10.1556/2006.2024.00006).
 * __Kwon, M.__, Kim, H., Yang, J., Lee, Y., Hur, J.K., Lee, T.-H., Bjork, J.M., & Ahn, W.-Y. (2024) Caffeinated soda intake in children is associated with neurobehavioral risk factors for substance misuse. _Substance Use and Misuse_,  [https://doi.org/10.1080/10826084.2023.2259471](https://doi.org/10.1080/10826084.2023.2259471).
 * __Kwon, M.__, Lee, S., & Ahn, W.-Y. (2023) Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_, [https://doi.org/10.1016/j.bpsc.2022.12.003](https://linkinghub.elsevier.com/retrieve/pii/S245190222200338X).
